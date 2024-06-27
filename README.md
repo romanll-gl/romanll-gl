@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @romanll-gl
-- 👀 I’m interested in photographt
+- 👀 I’m interested in photography
 - 🌱 I’m currently learning worpress and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
